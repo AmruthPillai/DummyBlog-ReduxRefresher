@@ -2,12 +2,11 @@
   "name": "redux-crash-course",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/AmruthPillai/DummyBlog-ReduxRefresher",
+  "homepage": "https://amruthpillai.github.io/DummyBlog-ReduxRefresher",
   "dependencies": {
     "@material-ui/core": "^4.5.0",
     "axios": "^0.19.0",
     "babel-polyfill": "^6.26.0",
-    "gh-pages": "^2.1.1",
     "prop-types": "^15.7.2",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
@@ -45,6 +44,7 @@
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.16.0",
-    "eslint-plugin-react-hooks": "^1.7.0"
+    "eslint-plugin-react-hooks": "^1.7.0",
+    "gh-pages": "^2.1.1"
   }
 }
