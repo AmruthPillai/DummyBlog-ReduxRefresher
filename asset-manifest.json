@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/AmruthPillai/DummyBlog-ReduxRefresher/static/css/main.4f1341d8.chunk.css",
+    "main.js": "/AmruthPillai/DummyBlog-ReduxRefresher/static/js/main.c70cfe70.chunk.js",
+    "main.js.map": "/AmruthPillai/DummyBlog-ReduxRefresher/static/js/main.c70cfe70.chunk.js.map",
+    "runtime-main.js": "/AmruthPillai/DummyBlog-ReduxRefresher/static/js/runtime-main.c8a526f7.js",
+    "runtime-main.js.map": "/AmruthPillai/DummyBlog-ReduxRefresher/static/js/runtime-main.c8a526f7.js.map",
+    "static/js/2.961b3e9d.chunk.js": "/AmruthPillai/DummyBlog-ReduxRefresher/static/js/2.961b3e9d.chunk.js",
+    "static/js/2.961b3e9d.chunk.js.map": "/AmruthPillai/DummyBlog-ReduxRefresher/static/js/2.961b3e9d.chunk.js.map",
+    "index.html": "/AmruthPillai/DummyBlog-ReduxRefresher/index.html",
+    "precache-manifest.6306c80f2ad82c7c65b45f9fec815a90.js": "/AmruthPillai/DummyBlog-ReduxRefresher/precache-manifest.6306c80f2ad82c7c65b45f9fec815a90.js",
+    "service-worker.js": "/AmruthPillai/DummyBlog-ReduxRefresher/service-worker.js",
+    "static/css/main.4f1341d8.chunk.css.map": "/AmruthPillai/DummyBlog-ReduxRefresher/static/css/main.4f1341d8.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8a526f7.js",
+    "static/js/2.961b3e9d.chunk.js",
+    "static/css/main.4f1341d8.chunk.css",
+    "static/js/main.c70cfe70.chunk.js"
+  ]
+}
