@@ -20,6 +20,9 @@ module.exports = {
   plugins: [
     'react',
   ],
+  "parser": "babel-eslint",
   rules: {
+    'no-console': 0,
+    // 'react/prop-types': 0,
   },
 };
