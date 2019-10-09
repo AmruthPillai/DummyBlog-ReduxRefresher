@@ -1,4 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Dummy Blog - Redux Refresher
+A simple application to refresh skills on React+Redux, by building a dummy blog with posts from JSONPlaceholder.
+
+## Live Demo
+
+#### https://amruthpillai.github.io/DummyBlog-ReduxRefresher/
+
+## Screenshots
+
+<img width="1195" alt="Screenshot 2019-10-09 at 11 08 16 PM" src="https://user-images.githubusercontent.com/1134738/66506006-1c539f80-eaea-11e9-8698-84e8fb5474a4.png">
 
 ## Available Scripts
 
