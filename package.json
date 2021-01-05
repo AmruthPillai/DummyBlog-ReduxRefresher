@@ -5,7 +5,7 @@
   "homepage": "https://amruthpillai.github.io/DummyBlog-ReduxRefresher",
   "dependencies": {
     "@material-ui/core": "^4.5.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "babel-polyfill": "^6.26.0",
     "prop-types": "^15.7.2",
     "react": "^16.10.2",
